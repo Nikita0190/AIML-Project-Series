@@ -1,7 +1,7 @@
 # AIML-Project-Series
 This project is a small and easy-to-understand implementation of a basic chatbot. It is designed to provide predefined responses to user inputs, making it an excellent starting point for beginners in natural language processing (NLP) and chatbot development.
 
-The chatbot operates through a simple rule-based approach, where it matches user inputs with predefined responses stored in a JSON file. This structure allows for easy customization and expansion of the chatbot's capabilities.
+The chatbot operates through a simple rule-based approach. This structure allows for easy customization and expansion of the chatbot's capabilities.
 
 Key features include:
 
